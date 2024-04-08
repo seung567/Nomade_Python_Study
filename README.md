@@ -1,3 +1,1 @@
-"# nomade_Challenges" 
-Nomade_Challenges 4,5 처리한 코드
-Python
+Nomade 챌린저를 통한 Python 연습 및 독학
